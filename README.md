@@ -198,15 +198,6 @@ Jahanvi Gaur
 Data Analytics | Python | SQL | Power BI | Business Intelligence
 If you find this project useful, feel free to explore the repository.
 
-### Step 4 — Preview check karo
-
-**Preview** tab par click karo.
-
-Ab headings `##`, bullet points `-`, numbered questions aur code blocks properly formatted dikhne chahiye.
-
-### Step 5 — Commit
-
-Neeche jaakar:
 
 **Commit changes**
 
