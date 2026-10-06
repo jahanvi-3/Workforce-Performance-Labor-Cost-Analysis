@@ -1,0 +1,501 @@
+Employee_ID,Employee_Name,Gender,Age,Department,Job_Role,Location,Experience_Years,Hire_Date,Employment_Status
+EMP0001,Praneel Sibal,Male,56,Finance,Financial Analyst,Chennai,11,2015-05-31,Active
+EMP0002,Indrajit Mani,Male,40,Marketing,Marketing Specialist,Delhi NCR,15,2020-02-17,Active
+EMP0003,Nitesh Sarma,Male,32,Finance,Finance Lead,Delhi NCR,1,2023-01-01,Active
+EMP0004,Inaya Dyal,Female,37,Finance,Financial Analyst,Mumbai,12,2017-10-04,Active
+EMP0005,Qadim Handa,Male,29,Marketing,SEO Analyst,Hyderabad,5,2022-01-02,Active
+EMP0006,Jagdish Raval,Male,47,Marketing,SEO Analyst,Mumbai,23,2019-08-05,Active
+EMP0007,Azad Sani,Male,44,HR,HR Manager,Delhi NCR,0,2023-01-01,Active
+EMP0008,Hitesh Choudhry,Male,24,IT,System Analyst,Mumbai,3,2022-09-11,Active
+EMP0009,Lila Rana,Female,58,IT,System Analyst,Pune,15,2022-04-30,Active
+EMP0010,Ishwar Sampath,Male,55,Customer Support,Support Specialist,Mumbai,21,2022-01-30,Active
+EMP0011,Ubika Ahuja,Female,56,Finance,Financial Analyst,Chennai,22,2021-11-23,Active
+EMP0012,Charvi Pai,Female,30,Customer Support,Support Specialist,Chennai,2,2022-09-10,Active
+EMP0013,Qasim Parsa,Male,27,HR,Recruiter,Hyderabad,1,2023-01-01,Active
+EMP0014,Ganga Banerjee,Female,51,IT,System Analyst,Chennai,1,2022-06-17,Active
+EMP0015,Liam Bhatti,Male,38,IT,System Analyst,Mumbai,14,2021-06-30,On Leave
+EMP0016,Tanmayi Patil,Female,37,HR,HR Manager,Bengaluru,3,2023-01-01,Active
+EMP0017,Yahvi Uppal,Female,51,Operations,Operations Associate,Delhi NCR,20,2021-04-28,Active
+EMP0018,Zilmil Ahuja,Female,34,Operations,Operations Manager,Delhi NCR,8,2018-09-19,Active
+EMP0019,Amol Pal,Male,40,Marketing,SEO Analyst,Hyderabad,11,2021-07-18,Active
+EMP0020,Daniel Sharma,Male,55,IT,Software Engineer,Chennai,2,2023-01-01,Active
+EMP0021,Harish Sekhon,Male,45,Finance,Finance Lead,Bengaluru,0,2023-01-01,Active
+EMP0022,Falan Muni,Male,30,Operations,Operations Manager,Delhi NCR,7,2020-06-08,Active
+EMP0023,Bhavna Bhasin,Female,37,IT,System Analyst,Delhi NCR,13,2023-01-01,Active
+EMP0024,Barkha Hans,Female,50,Marketing,Marketing Specialist,Delhi NCR,14,2017-05-15,Active
+EMP0025,Chakradev Mammen,Male,51,Customer Support,Support Specialist,Mumbai,19,2018-04-24,Terminated
+EMP0026,Vidhi Jayaraman,Female,31,Marketing,Content Strategist,Mumbai,7,2023-01-01,Active
+EMP0027,Zaitra Nagar,Female,29,Operations,Process Lead,Delhi NCR,1,2023-01-01,Active
+EMP0028,Meera Goda,Female,28,Sales,Sales Executive,Delhi NCR,4,2022-01-05,Active
+EMP0029,Rudra Shanker,Male,36,Marketing,Marketing Specialist,Bengaluru,6,2022-11-04,Terminated
+EMP0030,Om Khare,Male,50,Sales,Sales Executive,Pune,4,2022-05-13,Terminated
+EMP0031,Warinder Hayre,Male,55,HR,HR Manager,Bengaluru,0,2023-01-01,Terminated
+EMP0032,Aditya Deol,Male,29,Finance,Finance Lead,Pune,0,2023-01-01,On Leave
+EMP0033,Rajata Rau,Female,30,Sales,Account Executive,Chennai,0,2023-01-01,On Leave
+EMP0034,Januja Varty,Female,40,IT,DevOps Engineer,Hyderabad,7,2017-07-25,Active
+EMP0035,Falak Dara,Female,24,HR,Recruiter,Bengaluru,1,2022-02-26,Active
+EMP0036,Divya Pingle,Female,31,IT,System Analyst,Hyderabad,9,2016-03-14,Terminated
+EMP0037,Isha Patla,Female,23,HR,HR Executive,Bengaluru,0,2023-01-01,Active
+EMP0038,Veer Nadkarni,Male,46,HR,HR Manager,Chennai,4,2020-04-11,Active
+EMP0039,Lakshmi Khosla,Female,38,Finance,Finance Lead,Delhi NCR,1,2023-01-01,Active
+EMP0040,Utkarsh Mishra,Male,45,Customer Support,Support Specialist,Hyderabad,15,2023-01-01,Active
+EMP0041,Aryan Oommen,Male,22,IT,System Analyst,Hyderabad,1,2023-01-01,Terminated
+EMP0042,Atharv Luthra,Male,48,Marketing,Content Strategist,Chennai,22,2020-09-13,Active
+EMP0043,Anay Shroff,Male,40,IT,Software Engineer,Pune,12,2013-12-28,Active
+EMP0044,Samesh Seth,Male,48,Sales,Sales Executive,Pune,16,2022-09-17,Active
+EMP0045,Ekbal Sura,Male,53,Finance,Finance Lead,Delhi NCR,9,2015-01-18,Active
+EMP0046,Lila Dara,Female,52,Customer Support,Support Specialist,Hyderabad,7,2022-09-26,Active
+EMP0047,Varenya Nori,Female,28,Marketing,SEO Analyst,Delhi NCR,0,2023-01-01,Active
+EMP0048,Wahab Sahni,Male,26,Customer Support,Support Specialist,Chennai,4,2019-06-18,Active
+EMP0049,Aarini Khare,Female,48,IT,DevOps Engineer,Mumbai,24,2021-01-14,Active
+EMP0050,Chanakya Kata,Male,22,HR,HR Manager,Bengaluru,0,2023-01-01,Active
+EMP0051,Harini Handa,Female,55,Operations,Operations Manager,Bengaluru,18,2018-10-26,Active
+EMP0052,Anirudh Gulati,Male,34,Sales,Sales Manager,Bengaluru,2,2022-12-15,Active
+EMP0053,Charles Wable,Male,52,HR,HR Executive,Bengaluru,15,2022-12-28,Active
+EMP0054,Osha Trivedi,Female,52,Sales,Sales Executive,Delhi NCR,25,2022-12-18,Active
+EMP0055,Wridesh Dave,Male,22,HR,HR Executive,Bengaluru,0,2023-01-01,Active
+EMP0056,Anmol Sen,Male,48,Marketing,Marketing Specialist,Delhi NCR,7,2022-04-20,Active
+EMP0057,Mahika Rau,Female,44,Finance,Accountant,Bengaluru,22,2016-04-12,Active
+EMP0058,Devika Mani,Female,55,Customer Support,Support Specialist,Chennai,13,2022-06-16,Active
+EMP0059,Chanakya Mishra,Male,46,Operations,Process Lead,Bengaluru,3,2021-08-12,Active
+EMP0060,Gayathri Rama,Female,58,IT,Software Engineer,Mumbai,6,2022-10-15,Terminated
+EMP0061,Forum Natarajan,Female,22,IT,DevOps Engineer,Bengaluru,1,2022-09-28,Active
+EMP0062,Kashvi Mody,Female,27,IT,Software Engineer,Pune,5,2021-04-24,Active
+EMP0063,Wahab Kohli,Male,33,Finance,Accountant,Chennai,0,2023-01-01,Active
+EMP0064,Forum Gala,Female,31,Customer Support,Technical Support Lead,Bengaluru,3,2023-01-01,Active
+EMP0065,Yagnesh Hari,Male,41,HR,HR Executive,Hyderabad,14,2017-08-29,Active
+EMP0066,Girish Narayan,Male,44,Sales,Sales Executive,Delhi NCR,15,2018-04-30,Active
+EMP0067,Nachiket Vora,Male,25,Customer Support,Technical Support Lead,Hyderabad,0,2023-01-01,Active
+EMP0068,Raghav Dave,Male,33,IT,Software Engineer,Pune,8,2017-03-01,Active
+EMP0069,Veer Lalla,Male,31,Marketing,Content Strategist,Mumbai,5,2022-11-27,Active
+EMP0070,Vasana Mittal,Female,40,Operations,Process Lead,Chennai,11,2021-03-13,Active
+EMP0071,Advaith Prabhu,Male,49,Sales,Account Executive,Delhi NCR,1,2023-01-01,Active
+EMP0072,Sanaya Bassi,Female,32,Marketing,SEO Analyst,Mumbai,1,2022-05-18,Active
+EMP0073,Jack Agate,Male,44,Marketing,Marketing Specialist,Bengaluru,0,2023-01-01,Active
+EMP0074,Wishi Raman,Female,47,Finance,Accountant,Mumbai,2,2022-11-21,Active
+EMP0075,Idika Salvi,Female,46,HR,HR Manager,Hyderabad,22,2022-09-25,Active
+EMP0076,Lopa Pillay,Female,41,Finance,Finance Lead,Mumbai,17,2018-10-29,Active
+EMP0077,Rushil Devi,Male,36,IT,Software Engineer,Mumbai,15,2021-06-12,Active
+EMP0078,Yauvani Sura,Female,34,Finance,Accountant,Mumbai,11,2021-08-19,Active
+EMP0079,Ucchal Vora,Female,32,Customer Support,Support Specialist,Chennai,1,2022-01-19,Active
+EMP0080,Chatresh Anne,Male,44,Marketing,Content Strategist,Mumbai,19,2022-12-04,Active
+EMP0081,Luke Shan,Male,48,Operations,Operations Manager,Mumbai,21,2020-04-27,Active
+EMP0082,Maanas Deshpande,Male,52,Marketing,SEO Analyst,Bengaluru,2,2022-05-22,Active
+EMP0083,Keya Deshpande,Female,54,Customer Support,Support Specialist,Pune,2,2023-01-01,Active
+EMP0084,Sara Chaudhuri,Female,32,Marketing,SEO Analyst,Pune,10,2022-03-12,Active
+EMP0085,Azaan Setty,Male,33,Marketing,SEO Analyst,Bengaluru,1,2023-01-01,Active
+EMP0086,Rayaan Gala,Male,55,Marketing,Content Strategist,Pune,25,2023-01-01,Active
+EMP0087,Sathvik Sahota,Male,43,Finance,Financial Analyst,Mumbai,7,2023-01-01,Active
+EMP0088,Rachit Chauhan,Male,53,Finance,Financial Analyst,Chennai,17,2018-02-09,Active
+EMP0089,Joshua Dutt,Male,42,IT,Software Engineer,Pune,9,2020-07-01,Active
+EMP0090,Mitali Wadhwa,Female,26,Customer Support,Support Specialist,Mumbai,0,2023-01-01,Active
+EMP0091,Gopal Dey,Male,47,Marketing,Marketing Specialist,Chennai,9,2023-01-01,Terminated
+EMP0092,Wazir Dar,Male,57,Finance,Accountant,Chennai,3,2022-04-16,Active
+EMP0093,Wridesh Tata,Male,53,Customer Support,Support Specialist,Chennai,10,2020-08-05,Active
+EMP0094,Ekaraj Grewal,Male,42,IT,Software Engineer,Chennai,18,2017-05-07,Active
+EMP0095,Unnati Srivastava,Female,24,IT,Software Engineer,Bengaluru,1,2022-11-04,Active
+EMP0096,Harinakshi Parmer,Female,29,HR,Recruiter,Delhi NCR,7,2022-06-05,Active
+EMP0097,Ladli Gola,Female,43,Operations,Operations Manager,Delhi NCR,6,2023-01-01,Terminated
+EMP0098,Naveen Barad,Male,42,Sales,Account Executive,Pune,7,2017-04-24,Active
+EMP0099,Jyoti Dutta,Female,38,Customer Support,CS Executive,Mumbai,7,2023-01-01,Terminated
+EMP0100,Ira Nagi,Female,35,Operations,Operations Manager,Mumbai,6,2021-04-25,On Leave
+EMP0101,Parth Rajagopalan,Male,51,Marketing,SEO Analyst,Bengaluru,0,2023-01-01,Active
+EMP0102,Nidhi Menon,Female,56,Operations,Operations Associate,Delhi NCR,2,2021-08-10,Active
+EMP0103,Farhan Dhingra,Male,33,Sales,Sales Executive,Mumbai,7,2018-02-04,Active
+EMP0104,Darika Wable,Female,53,IT,System Analyst,Hyderabad,2,2021-12-05,Active
+EMP0105,Jeremiah Kakar,Male,39,Operations,Process Lead,Chennai,17,2018-10-16,Active
+EMP0106,Jagrati Dass,Female,33,Finance,Finance Lead,Mumbai,6,2022-02-10,Terminated
+EMP0107,Triya Randhawa,Female,46,Finance,Financial Analyst,Mumbai,16,2022-09-24,Active
+EMP0108,Nidra Gill,Female,45,Operations,Operations Manager,Hyderabad,22,2022-04-26,Active
+EMP0109,Zashil Ravi,Male,29,IT,DevOps Engineer,Pune,4,2019-04-05,Terminated
+EMP0110,Chaitaly Goel,Female,52,HR,HR Manager,Mumbai,8,2016-09-28,Active
+EMP0111,Aadi Gera,Male,36,HR,HR Manager,Chennai,11,2020-03-23,Active
+EMP0112,Rajata Thaman,Female,38,HR,Recruiter,Delhi NCR,8,2016-09-15,On Leave
+EMP0113,Forum Kashyap,Female,25,HR,HR Manager,Pune,4,2021-07-17,Active
+EMP0114,Abeer Tandon,Male,49,HR,HR Executive,Pune,9,2018-12-15,Active
+EMP0115,Nilima Sastry,Female,42,Operations,Operations Manager,Chennai,15,2017-09-23,Active
+EMP0116,Shivansh Sarma,Male,22,Sales,Sales Executive,Hyderabad,0,2023-01-01,Active
+EMP0117,Owen Sura,Male,25,Marketing,Marketing Specialist,Mumbai,0,2023-01-01,Active
+EMP0118,Rajeshri Palan,Female,38,Customer Support,Technical Support Lead,Mumbai,8,2022-11-10,Active
+EMP0119,Bakhshi Bhardwaj,Male,53,Customer Support,CS Executive,Mumbai,4,2020-05-07,Active
+EMP0120,Ranbir Mital,Male,55,Marketing,Marketing Specialist,Pune,1,2023-01-01,Active
+EMP0121,Ikbal Ghosh,Male,56,Operations,Operations Manager,Bengaluru,9,2022-08-03,Active
+EMP0122,Ekansh Varty,Male,33,Finance,Financial Analyst,Pune,1,2022-07-19,Terminated
+EMP0123,Krish Chauhan,Male,52,HR,Recruiter,Delhi NCR,14,2022-07-10,Active
+EMP0124,Rachana Bala,Female,44,Marketing,SEO Analyst,Pune,8,2022-12-21,Active
+EMP0125,Sarthak Munshi,Male,56,IT,System Analyst,Mumbai,15,2022-01-25,Active
+EMP0126,Ridhi Nazareth,Female,27,HR,HR Manager,Hyderabad,0,2023-01-01,Active
+EMP0127,Isaiah Saraf,Male,39,HR,HR Executive,Mumbai,0,2023-01-01,Active
+EMP0128,Nikita Prabhakar,Female,58,IT,DevOps Engineer,Pune,20,2022-11-17,Terminated
+EMP0129,Kamya Narayanan,Female,52,Customer Support,Support Specialist,Chennai,23,2016-11-27,Active
+EMP0130,Mohammed Bumb,Male,25,Sales,Sales Manager,Delhi NCR,2,2022-04-30,Active
+EMP0131,Faqid Pal,Male,28,HR,HR Manager,Pune,2,2023-01-01,Active
+EMP0132,Jai Bandi,Male,48,Sales,Sales Manager,Chennai,13,2022-07-25,Terminated
+EMP0133,Maanas Rastogi,Male,40,Marketing,SEO Analyst,Pune,11,2015-09-14,On Leave
+EMP0134,Pavani Chaudhari,Female,50,Customer Support,Technical Support Lead,Chennai,6,2021-09-14,Active
+EMP0135,Rishi Nayak,Male,28,Finance,Finance Lead,Chennai,2,2022-10-10,Terminated
+EMP0136,Bakhshi Chokshi,Male,42,Finance,Accountant,Delhi NCR,3,2023-01-01,Active
+EMP0137,Wahab Borah,Male,23,Sales,Sales Manager,Chennai,2,2023-01-01,Active
+EMP0138,Ganga Bahri,Female,26,Sales,Sales Manager,Mumbai,1,2022-03-29,Active
+EMP0139,Gauri Choudhary,Female,28,HR,HR Manager,Chennai,1,2022-02-03,Active
+EMP0140,Lohit Gulati,Male,27,Customer Support,Support Specialist,Pune,1,2023-01-01,Active
+EMP0141,Baljiwan Dyal,Male,49,Sales,Sales Manager,Chennai,20,2021-03-16,Active
+EMP0142,Gaurangi Chadha,Female,28,Marketing,Marketing Specialist,Pune,3,2020-11-05,Active
+EMP0143,Anusha Goswami,Female,38,IT,Software Engineer,Mumbai,7,2018-12-21,Active
+EMP0144,Tanmayi Bali,Female,57,Marketing,Content Strategist,Delhi NCR,3,2022-09-18,Active
+EMP0145,Shivansh Wali,Male,52,HR,Recruiter,Delhi NCR,10,2014-10-04,Active
+EMP0146,Eiravati Hari,Female,44,Operations,Process Lead,Mumbai,20,2020-02-11,Active
+EMP0147,Robert Dora,Male,49,Customer Support,Support Specialist,Bengaluru,25,2023-01-01,Active
+EMP0148,Sachi Vora,Female,56,IT,System Analyst,Bengaluru,19,2022-03-20,Active
+EMP0149,Zashil Brar,Male,42,Operations,Operations Manager,Mumbai,10,2018-11-01,Active
+EMP0150,Tara Dixit,Female,36,HR,HR Executive,Delhi NCR,10,2021-04-12,Active
+EMP0151,Farhan Kumar,Male,29,Finance,Finance Lead,Hyderabad,5,2022-02-13,Active
+EMP0152,Divya Gopal,Female,31,Sales,Account Executive,Mumbai,7,2022-02-10,Terminated
+EMP0153,Gavin Iyengar,Male,23,HR,Recruiter,Bengaluru,0,2023-01-01,Active
+EMP0154,Aarush Dayal,Male,31,Marketing,Marketing Specialist,Chennai,8,2019-08-22,Active
+EMP0155,Osha Khanna,Female,35,Sales,Sales Manager,Mumbai,12,2021-01-19,Active
+EMP0156,Darsh Bava,Male,37,Customer Support,CS Executive,Delhi NCR,7,2021-09-05,Active
+EMP0157,Jeet Talwar,Male,25,HR,HR Manager,Delhi NCR,1,2022-11-26,Active
+EMP0158,Dayita Parsa,Female,32,HR,HR Manager,Chennai,6,2022-04-07,Terminated
+EMP0159,Keya Nadkarni,Female,54,Marketing,SEO Analyst,Pune,19,2017-07-02,Active
+EMP0160,Ati Saxena,Female,31,Customer Support,Support Specialist,Bengaluru,0,2023-01-01,Active
+EMP0161,Bishakha Anne,Female,53,Customer Support,CS Executive,Chennai,23,2017-04-29,Active
+EMP0162,Bhavna Bora,Female,39,Customer Support,CS Executive,Bengaluru,15,2016-05-23,Active
+EMP0163,Lucky Bhagat,Male,47,Sales,Account Executive,Bengaluru,15,2022-05-02,Active
+EMP0164,Eesha Choudhary,Female,29,Sales,Sales Executive,Hyderabad,5,2022-07-12,Active
+EMP0165,Madhavi Chowdhury,Female,58,Marketing,Marketing Specialist,Mumbai,12,2022-04-22,Active
+EMP0166,Nitesh Dube,Male,52,Sales,Sales Executive,Chennai,7,2022-02-08,Active
+EMP0167,Thomas Khanna,Male,43,HR,Recruiter,Pune,1,2022-05-05,Active
+EMP0168,Hemani Saxena,Female,27,Operations,Operations Associate,Hyderabad,3,2021-11-27,Active
+EMP0169,Anita Kari,Female,32,Marketing,Marketing Specialist,Hyderabad,2,2023-01-01,Active
+EMP0170,Hemani Sehgal,Female,33,Operations,Operations Manager,Mumbai,3,2022-07-06,Active
+EMP0171,Mohini Choudhury,Female,39,Customer Support,Support Specialist,Pune,1,2022-11-12,Active
+EMP0172,Meera Pant,Female,54,Sales,Account Executive,Mumbai,24,2019-05-10,Active
+EMP0173,Shivansh Konda,Male,32,Operations,Operations Manager,Hyderabad,8,2018-07-09,Active
+EMP0174,Ishanvi Nigam,Female,43,Marketing,SEO Analyst,Pune,15,2023-01-01,Active
+EMP0175,Nathaniel Kata,Male,44,Finance,Finance Lead,Delhi NCR,1,2023-01-01,Active
+EMP0176,Zansi Thaker,Female,28,Sales,Sales Manager,Hyderabad,5,2022-02-04,Active
+EMP0177,Oliver Krishnamurthy,Male,40,Sales,Account Executive,Mumbai,3,2021-07-04,Active
+EMP0178,Advaith Peri,Male,57,Marketing,Content Strategist,Pune,4,2020-12-04,Terminated
+EMP0179,Chatura Krishna,Male,47,Operations,Operations Manager,Delhi NCR,0,2023-01-01,Active
+EMP0180,Aarna Mammen,Female,52,Finance,Accountant,Pune,7,2023-01-01,Terminated
+EMP0181,Mekhala Wason,Female,34,Marketing,SEO Analyst,Mumbai,3,2023-01-01,Active
+EMP0182,Mitali Deol,Female,35,Sales,Sales Manager,Bengaluru,4,2022-03-22,Terminated
+EMP0183,Gautam Taneja,Male,33,Sales,Account Executive,Pune,10,2016-09-03,Active
+EMP0184,Adweta Pathak,Female,39,Finance,Finance Lead,Bengaluru,0,2023-01-01,Active
+EMP0185,Xiti Bir,Female,51,IT,System Analyst,Bengaluru,10,2019-12-03,Active
+EMP0186,Vedika Sabharwal,Female,47,Marketing,SEO Analyst,Mumbai,23,2017-04-06,Active
+EMP0187,Manya Rege,Female,29,HR,HR Executive,Hyderabad,7,2022-10-13,On Leave
+EMP0188,Hema Roy,Female,48,IT,Software Engineer,Mumbai,8,2023-01-01,Active
+EMP0189,Krisha Peri,Female,29,Customer Support,Technical Support Lead,Hyderabad,6,2020-03-19,On Leave
+EMP0190,Champak Bal,Male,37,Marketing,Marketing Specialist,Pune,10,2022-04-17,On Leave
+EMP0191,Wakeeta Nadkarni,Female,39,IT,System Analyst,Pune,10,2021-02-21,Active
+EMP0192,Hemal Nagi,Female,23,IT,DevOps Engineer,Delhi NCR,1,2023-01-01,Active
+EMP0193,Mitesh Dora,Male,45,HR,Recruiter,Pune,18,2021-02-15,Active
+EMP0194,Jonathan Mohan,Male,47,Sales,Sales Executive,Chennai,24,2022-03-17,Active
+EMP0195,Anthony Som,Male,24,Operations,Operations Manager,Pune,3,2021-02-17,Active
+EMP0196,Rachit Nair,Male,49,Finance,Finance Lead,Mumbai,5,2022-08-28,Active
+EMP0197,Vedant Kumer,Male,22,Customer Support,Technical Support Lead,Mumbai,1,2022-12-15,Active
+EMP0198,Oeshi Sethi,Female,25,IT,System Analyst,Hyderabad,3,2022-05-26,Active
+EMP0199,Barkha Varughese,Female,49,Customer Support,Technical Support Lead,Delhi NCR,21,2022-05-23,Active
+EMP0200,Faraj Sampath,Male,47,IT,DevOps Engineer,Pune,15,2022-04-21,Active
+EMP0201,Fiyaz Varghese,Male,38,Operations,Operations Associate,Delhi NCR,9,2020-09-09,On Leave
+EMP0202,Odika Sule,Female,54,Sales,Sales Executive,Chennai,7,2022-02-28,Terminated
+EMP0203,Chaaya Dada,Female,25,Finance,Financial Analyst,Hyderabad,1,2022-01-03,Active
+EMP0204,Chanakya Kapur,Male,39,Finance,Accountant,Mumbai,15,2021-02-02,Active
+EMP0205,Omaja Issac,Female,50,Sales,Sales Manager,Delhi NCR,14,2017-07-02,Active
+EMP0206,Indrajit Bhardwaj,Male,30,Operations,Operations Associate,Chennai,2,2023-01-01,Active
+EMP0207,Yug Krishnan,Male,29,Finance,Finance Lead,Pune,4,2022-07-03,Active
+EMP0208,Theodore Bora,Male,38,Finance,Accountant,Chennai,4,2022-11-29,Active
+EMP0209,Anay Deshpande,Male,47,Marketing,SEO Analyst,Bengaluru,24,2021-11-14,Active
+EMP0210,Xiti Dhingra,Female,31,Finance,Accountant,Mumbai,6,2023-01-01,Active
+EMP0211,Wakeeta Raval,Female,56,Marketing,SEO Analyst,Pune,7,2023-01-01,On Leave
+EMP0212,Ishanvi Garde,Female,31,HR,HR Executive,Bengaluru,5,2019-06-29,Active
+EMP0213,Nikita Thaker,Female,23,Marketing,Marketing Specialist,Pune,0,2023-01-01,Active
+EMP0214,Ubika Kaur,Female,34,Finance,Accountant,Chennai,4,2022-03-09,Active
+EMP0215,Samesh Kant,Male,50,IT,System Analyst,Mumbai,24,2022-08-11,On Leave
+EMP0216,Falguni Srinivas,Female,28,Finance,Financial Analyst,Hyderabad,5,2021-12-10,Active
+EMP0217,Odika Misra,Female,27,Customer Support,Technical Support Lead,Bengaluru,3,2022-08-02,Active
+EMP0218,Logan Pai,Male,31,Finance,Financial Analyst,Bengaluru,1,2022-04-16,Active
+EMP0219,Yauvani Lad,Female,39,Finance,Financial Analyst,Hyderabad,1,2022-07-15,Active
+EMP0220,Zinal Sule,Female,52,Customer Support,Technical Support Lead,Hyderabad,22,2021-05-30,Active
+EMP0221,Avi Roy,Male,26,Sales,Sales Executive,Bengaluru,1,2023-01-01,Active
+EMP0222,Chaitaly Andra,Female,50,IT,System Analyst,Hyderabad,3,2022-12-22,Active
+EMP0223,Udant Natt,Male,52,Finance,Accountant,Bengaluru,12,2019-11-08,Active
+EMP0224,Logan Bala,Male,48,Customer Support,Technical Support Lead,Hyderabad,17,2020-06-08,Active
+EMP0225,Adweta Oak,Female,26,IT,Software Engineer,Chennai,0,2023-01-01,Active
+EMP0226,Yatin Kapadia,Male,48,Sales,Sales Executive,Mumbai,11,2023-01-01,Active
+EMP0227,Yamini Pant,Female,44,Customer Support,Support Specialist,Mumbai,18,2022-01-06,Active
+EMP0228,Gaurika Ghosh,Female,57,Marketing,Content Strategist,Hyderabad,13,2023-01-01,Active
+EMP0229,Rajata Bath,Female,38,IT,Software Engineer,Hyderabad,1,2022-07-14,Active
+EMP0230,Omisha Pathak,Female,43,Finance,Financial Analyst,Bengaluru,9,2017-01-21,Active
+EMP0231,Eshana Pathak,Female,44,Operations,Operations Manager,Hyderabad,20,2022-06-05,Active
+EMP0232,Imaran Vala,Male,45,IT,Software Engineer,Delhi NCR,16,2017-03-07,Active
+EMP0233,Tarak Anne,Male,28,HR,Recruiter,Delhi NCR,3,2022-09-24,Active
+EMP0234,Warda Badal,Female,23,Sales,Sales Manager,Chennai,2,2022-10-27,Active
+EMP0235,Patrick Raghavan,Male,46,Finance,Financial Analyst,Mumbai,19,2022-06-08,Active
+EMP0236,Umang Jani,Male,40,Customer Support,CS Executive,Mumbai,4,2022-07-18,Active
+EMP0237,Udant Chaudhari,Male,36,Customer Support,CS Executive,Chennai,8,2022-02-06,Active
+EMP0238,Udant Patel,Male,27,Marketing,Marketing Specialist,Pune,1,2022-12-25,Active
+EMP0239,Girik Nair,Male,46,Customer Support,CS Executive,Bengaluru,13,2016-11-21,Active
+EMP0240,Rishi Majumdar,Male,50,IT,Software Engineer,Chennai,11,2022-11-14,Active
+EMP0241,Arin Balan,Male,44,Customer Support,CS Executive,Chennai,11,2022-07-14,Terminated
+EMP0242,Ekansh Ray,Male,27,HR,HR Executive,Delhi NCR,3,2022-11-15,Active
+EMP0243,Bhavini Karan,Female,22,IT,DevOps Engineer,Bengaluru,0,2023-01-01,Active
+EMP0244,Owen Korpal,Male,53,Marketing,Content Strategist,Hyderabad,1,2022-06-11,Active
+EMP0245,Chatresh Natt,Male,30,Sales,Account Executive,Mumbai,3,2022-08-02,Active
+EMP0246,Sarthak Gole,Male,42,Marketing,SEO Analyst,Pune,21,2018-09-03,Active
+EMP0247,Andrew Upadhyay,Male,45,Finance,Accountant,Hyderabad,0,2023-01-01,Active
+EMP0248,Tanveer Apte,Male,27,Marketing,SEO Analyst,Delhi NCR,3,2022-02-25,Active
+EMP0249,Mitali Mani,Female,25,Finance,Accountant,Delhi NCR,0,2023-01-01,Active
+EMP0250,Ishwar Chawla,Male,35,IT,DevOps Engineer,Bengaluru,4,2022-08-05,Active
+EMP0251,Sara Arora,Female,25,Customer Support,Technical Support Lead,Bengaluru,2,2021-10-02,Terminated
+EMP0252,Krishna Dey,Female,51,Marketing,SEO Analyst,Hyderabad,9,2019-11-01,Active
+EMP0253,Upkaar Atwal,Male,33,Finance,Finance Lead,Hyderabad,11,2022-04-18,Active
+EMP0254,Christopher Kurian,Male,40,Finance,Accountant,Hyderabad,7,2018-11-28,Active
+EMP0255,Caleb Sinha,Male,31,Customer Support,Support Specialist,Pune,9,2020-11-05,Terminated
+EMP0256,Umang Lanka,Male,43,HR,Recruiter,Chennai,19,2022-12-13,Active
+EMP0257,Yashoda Manne,Female,39,Marketing,SEO Analyst,Hyderabad,15,2020-12-05,Active
+EMP0258,Bhavani Sarma,Female,38,Sales,Account Executive,Hyderabad,17,2021-08-02,On Leave
+EMP0259,Teerth Dhar,Male,34,HR,Recruiter,Mumbai,3,2022-04-04,Active
+EMP0260,Nakul Memon,Male,33,Customer Support,Support Specialist,Bengaluru,11,2021-07-24,Active
+EMP0261,Priya Handa,Female,47,Customer Support,CS Executive,Hyderabad,9,2018-03-26,Active
+EMP0262,Nisha Narain,Female,46,Finance,Financial Analyst,Bengaluru,2,2022-02-17,Terminated
+EMP0263,Parth Sampath,Male,58,Finance,Accountant,Mumbai,23,2016-11-21,Active
+EMP0264,Naveen Badami,Male,37,Customer Support,Technical Support Lead,Chennai,15,2018-03-04,Active
+EMP0265,Vidhi Devan,Female,55,Operations,Operations Associate,Chennai,8,2022-02-16,Active
+EMP0266,Shivani Ramesh,Female,24,HR,HR Manager,Delhi NCR,2,2021-08-18,Active
+EMP0267,Falguni Shetty,Female,41,Finance,Finance Lead,Hyderabad,7,2019-01-05,Active
+EMP0268,Dayamai Chahal,Female,27,Sales,Sales Executive,Mumbai,0,2023-01-01,Active
+EMP0269,Arya Patla,Female,58,Customer Support,Technical Support Lead,Chennai,20,2021-06-25,Active
+EMP0270,Reva Badami,Female,48,IT,Software Engineer,Delhi NCR,22,2023-01-01,Active
+EMP0271,Dakshesh Ramanathan,Male,47,Finance,Finance Lead,Hyderabad,16,2023-01-01,Active
+EMP0272,Harsh Chandra,Male,55,IT,System Analyst,Pune,0,2023-01-01,Active
+EMP0273,Osha Khosla,Female,45,HR,HR Manager,Pune,20,2018-01-13,Active
+EMP0274,Krisha Venkataraman,Female,31,Sales,Account Executive,Pune,6,2021-04-17,Terminated
+EMP0275,Tanvi Bhatti,Female,46,HR,HR Executive,Pune,5,2022-09-20,Active
+EMP0276,Ekapad Mandal,Male,34,Sales,Sales Manager,Mumbai,2,2022-12-04,Active
+EMP0277,Samaksh Bawa,Male,39,IT,System Analyst,Hyderabad,1,2023-01-01,Active
+EMP0278,Samuel Nigam,Male,26,Customer Support,Support Specialist,Chennai,2,2023-01-01,Active
+EMP0279,Yashodhara Uppal,Female,26,Marketing,Marketing Specialist,Mumbai,3,2021-04-02,Active
+EMP0280,Elijah Andra,Male,44,Operations,Operations Manager,Delhi NCR,0,2023-01-01,Active
+EMP0281,Urvi Mander,Female,39,Operations,Process Lead,Pune,10,2021-02-12,Active
+EMP0282,Oscar Parekh,Male,27,Operations,Process Lead,Hyderabad,1,2022-10-19,Active
+EMP0283,Yahvi Konda,Female,33,Operations,Operations Associate,Bengaluru,3,2023-01-01,Active
+EMP0284,Sai Srinivas,Male,58,HR,HR Manager,Mumbai,20,2022-01-15,Active
+EMP0285,Jeet Goda,Male,46,Marketing,Content Strategist,Mumbai,4,2021-09-09,Active
+EMP0286,Dayita Pillai,Female,37,Finance,Financial Analyst,Delhi NCR,10,2015-03-29,Active
+EMP0287,Tarak Ganesan,Male,55,Marketing,SEO Analyst,Chennai,18,2017-03-21,Active
+EMP0288,Tamanna Bawa,Female,48,HR,HR Executive,Mumbai,7,2018-10-02,Active
+EMP0289,Faraj Contractor,Male,41,Sales,Account Executive,Bengaluru,12,2016-08-14,Active
+EMP0290,Jacob Bora,Male,36,Sales,Account Executive,Pune,15,2020-11-02,Active
+EMP0291,Bachittar Natt,Male,44,Sales,Sales Manager,Mumbai,15,2023-01-01,Terminated
+EMP0292,Tristan Thaman,Male,39,IT,DevOps Engineer,Hyderabad,2,2022-02-08,Active
+EMP0293,Oliver Chad,Male,28,Marketing,SEO Analyst,Mumbai,2,2022-12-29,Active
+EMP0294,Balendra Suresh,Male,37,Customer Support,Support Specialist,Chennai,1,2022-04-18,Active
+EMP0295,Geetika Goswami,Female,39,HR,HR Manager,Delhi NCR,4,2022-10-08,Active
+EMP0296,Sneha Bajwa,Female,43,HR,Recruiter,Mumbai,8,2019-03-20,Active
+EMP0297,Idika Hayer,Female,37,Operations,Operations Associate,Delhi NCR,11,2022-09-19,Active
+EMP0298,Hemang Shanker,Male,37,Sales,Sales Executive,Chennai,13,2022-04-05,Active
+EMP0299,Lakshit Bhat,Male,33,Operations,Operations Associate,Mumbai,6,2022-10-08,Active
+EMP0300,Sarthak Oak,Male,50,Marketing,SEO Analyst,Mumbai,25,2023-01-01,Active
+EMP0301,Chakradhar Pandya,Male,57,Marketing,Marketing Specialist,Pune,3,2021-02-22,Active
+EMP0302,Qasim Nagy,Male,58,Finance,Accountant,Pune,7,2023-01-01,Active
+EMP0303,Rushil Mander,Male,38,HR,HR Manager,Hyderabad,4,2023-01-01,Active
+EMP0304,Pushti Agate,Female,55,HR,HR Manager,Hyderabad,12,2022-09-11,Active
+EMP0305,Prisha Ben,Female,33,Operations,Process Lead,Mumbai,11,2021-10-30,Active
+EMP0306,Eshana Kapur,Female,38,Sales,Sales Executive,Delhi NCR,7,2018-03-25,Active
+EMP0307,Chavvi Narula,Female,32,IT,System Analyst,Chennai,8,2016-04-26,Active
+EMP0308,Raghav Singh,Male,36,Marketing,SEO Analyst,Pune,13,2022-11-12,Active
+EMP0309,Mohini Contractor,Female,28,IT,Software Engineer,Mumbai,4,2021-03-14,Active
+EMP0310,Arunima Prabhakar,Female,36,IT,System Analyst,Delhi NCR,13,2015-10-22,Active
+EMP0311,Garima Saini,Female,48,Marketing,Marketing Specialist,Pune,11,2020-06-16,Active
+EMP0312,Agastya Yogi,Male,47,IT,Software Engineer,Mumbai,15,2020-05-18,Terminated
+EMP0313,Dhruv Khurana,Male,29,HR,Recruiter,Pune,2,2023-01-01,Active
+EMP0314,Jhalak Tandon,Female,31,Customer Support,Support Specialist,Bengaluru,1,2022-04-15,Active
+EMP0315,Kalpit Gupta,Male,33,Sales,Sales Manager,Pune,12,2023-01-01,Terminated
+EMP0316,Charita Walia,Female,38,Finance,Finance Lead,Mumbai,4,2020-03-01,Active
+EMP0317,Janaki Madan,Female,44,Customer Support,Technical Support Lead,Hyderabad,23,2016-10-20,Active
+EMP0318,Pratyush Mann,Male,23,Customer Support,Support Specialist,Chennai,1,2023-01-01,Active
+EMP0319,Adweta Rajagopal,Female,51,Customer Support,Technical Support Lead,Pune,16,2021-08-22,Active
+EMP0320,Rishi Luthra,Male,22,Sales,Account Executive,Pune,1,2023-01-01,Active
+EMP0321,Ijaya Khare,Female,51,Customer Support,CS Executive,Mumbai,1,2022-02-08,Active
+EMP0322,Viraj Narayanan,Male,53,Customer Support,Technical Support Lead,Mumbai,17,2018-11-29,Active
+EMP0323,Jason Palla,Male,25,HR,HR Manager,Bengaluru,2,2021-12-17,Terminated
+EMP0324,Wazir Raman,Male,58,Sales,Account Executive,Chennai,10,2022-03-21,Active
+EMP0325,Anya Sundaram,Female,24,HR,Recruiter,Bengaluru,1,2023-01-01,Active
+EMP0326,Deepa Singh,Female,40,Finance,Finance Lead,Chennai,15,2019-12-01,Terminated
+EMP0327,Vasana Nanda,Female,34,HR,Recruiter,Chennai,3,2021-07-01,Active
+EMP0328,Samar Maharaj,Male,22,IT,System Analyst,Delhi NCR,1,2022-03-21,Active
+EMP0329,Chakradev Agarwal,Male,24,Customer Support,Technical Support Lead,Chennai,3,2022-05-29,Active
+EMP0330,Nihal Dada,Male,40,Finance,Accountant,Mumbai,9,2019-05-17,Active
+EMP0331,Tanvi Khatri,Female,47,Finance,Accountant,Bengaluru,24,2022-06-16,Active
+EMP0332,Krisha Munshi,Female,44,Operations,Operations Manager,Mumbai,3,2022-09-25,Active
+EMP0333,Chakradhar Tata,Male,53,IT,Software Engineer,Delhi NCR,19,2017-04-25,Active
+EMP0334,Hema Sama,Female,48,Marketing,Content Strategist,Mumbai,2,2022-02-17,Active
+EMP0335,Manan Karan,Male,41,Customer Support,Technical Support Lead,Chennai,10,2019-07-07,Active
+EMP0336,Matthew Kibe,Male,58,Marketing,SEO Analyst,Delhi NCR,0,2023-01-01,Active
+EMP0337,Gaurang Patel,Male,25,HR,HR Manager,Hyderabad,0,2023-01-01,Active
+EMP0338,Omaja Agrawal,Female,44,IT,System Analyst,Hyderabad,20,2018-06-10,Active
+EMP0339,Bina Kari,Female,50,IT,DevOps Engineer,Bengaluru,21,2020-03-22,Active
+EMP0340,Andrew Sura,Male,28,IT,System Analyst,Chennai,5,2022-06-10,Active
+EMP0341,Jagat Char,Male,30,Sales,Sales Manager,Hyderabad,2,2021-03-03,Active
+EMP0342,Hemangini Sandhu,Female,28,Operations,Operations Associate,Hyderabad,2,2023-01-01,Active
+EMP0343,Sai Guha,Female,41,Finance,Financial Analyst,Pune,15,2016-02-08,Active
+EMP0344,Pooja Contractor,Female,33,Customer Support,CS Executive,Mumbai,10,2021-08-08,Active
+EMP0345,Arunima Nayar,Female,25,Finance,Accountant,Hyderabad,1,2023-01-01,Active
+EMP0346,Triya Kalla,Female,29,Customer Support,Technical Support Lead,Chennai,6,2021-12-12,Active
+EMP0347,Girindra Thaman,Male,31,Operations,Operations Manager,Chennai,6,2021-07-21,Active
+EMP0348,Om Manne,Male,32,HR,HR Manager,Bengaluru,11,2022-02-16,Active
+EMP0349,Priya Goda,Female,25,Marketing,Marketing Specialist,Pune,1,2022-06-05,Active
+EMP0350,Eta Chaudhary,Female,54,Finance,Accountant,Delhi NCR,11,2021-08-16,Active
+EMP0351,Lekha Merchant,Female,55,Finance,Financial Analyst,Bengaluru,8,2021-01-05,Active
+EMP0352,Oeshi Bath,Female,56,IT,DevOps Engineer,Delhi NCR,20,2020-08-31,Active
+EMP0353,Chandran Ghose,Male,58,HR,HR Manager,Delhi NCR,10,2021-11-08,Active
+EMP0354,Michael Rajagopalan,Male,33,Operations,Operations Manager,Delhi NCR,0,2023-01-01,On Leave
+EMP0355,Triya Johal,Female,46,Customer Support,Technical Support Lead,Pune,3,2021-10-21,Terminated
+EMP0356,Kashvi Sarkar,Female,43,Customer Support,Technical Support Lead,Bengaluru,13,2019-08-02,Active
+EMP0357,Xiti Sekhon,Female,46,IT,DevOps Engineer,Delhi NCR,7,2020-05-16,Active
+EMP0358,Tanmayi Sabharwal,Female,25,Operations,Operations Associate,Delhi NCR,3,2022-04-03,Active
+EMP0359,Vasatika Bajaj,Female,28,IT,Software Engineer,Delhi NCR,4,2023-01-01,Active
+EMP0360,Vanya Venkataraman,Female,30,Marketing,Marketing Specialist,Pune,0,2023-01-01,Active
+EMP0361,Gaurang Gill,Male,27,Operations,Operations Manager,Mumbai,4,2022-06-30,Terminated
+EMP0362,Bachittar Cherian,Male,26,IT,System Analyst,Mumbai,3,2022-02-13,Active
+EMP0363,Simon Ravel,Male,56,Marketing,Marketing Specialist,Chennai,4,2020-07-27,Active
+EMP0364,Lekha Deo,Female,54,Operations,Process Lead,Bengaluru,12,2020-11-13,Active
+EMP0365,Jagdish Ray,Male,52,Sales,Sales Manager,Pune,6,2021-01-13,Active
+EMP0366,Onveer Khurana,Male,42,IT,DevOps Engineer,Pune,5,2021-10-28,Active
+EMP0367,Hemal Sidhu,Female,49,Sales,Sales Executive,Delhi NCR,12,2018-03-19,Active
+EMP0368,Saksham Mann,Male,22,Operations,Process Lead,Mumbai,0,2023-01-01,Active
+EMP0369,Ishwar Verma,Male,31,HR,Recruiter,Hyderabad,9,2022-09-19,Active
+EMP0370,Zinal Khalsa,Female,26,IT,System Analyst,Chennai,1,2023-01-01,Active
+EMP0371,Qasim Dubey,Male,54,Finance,Financial Analyst,Bengaluru,10,2018-12-13,Active
+EMP0372,Bhavya Khalsa,Female,54,Marketing,Content Strategist,Hyderabad,8,2022-07-22,Active
+EMP0373,Banjeet Subramanian,Male,39,Customer Support,CS Executive,Bengaluru,11,2022-01-12,Terminated
+EMP0374,Anika Prasad,Female,54,Customer Support,CS Executive,Bengaluru,11,2021-01-10,Active
+EMP0375,Ikshita Mann,Female,32,Operations,Operations Associate,Bengaluru,10,2021-11-02,Active
+EMP0376,Hemang Kashyap,Male,36,Finance,Financial Analyst,Bengaluru,8,2020-09-27,Active
+EMP0377,Urvashi Babu,Female,45,Operations,Operations Manager,Bengaluru,13,2022-04-07,Active
+EMP0378,Dalaja Palla,Female,41,Sales,Account Executive,Pune,12,2020-11-01,Active
+EMP0379,Shravya Sarraf,Female,41,HR,HR Executive,Delhi NCR,3,2023-01-01,Active
+EMP0380,Saanvi Buch,Female,39,Sales,Sales Manager,Hyderabad,5,2020-09-11,Active
+EMP0381,Jasmit Jain,Female,42,Finance,Financial Analyst,Pune,12,2023-01-01,Active
+EMP0382,Anay Divan,Male,34,Customer Support,Technical Support Lead,Pune,5,2023-01-01,Active
+EMP0383,Ekaja Dube,Female,54,Marketing,SEO Analyst,Mumbai,20,2021-07-30,Active
+EMP0384,Logan Bhagat,Male,36,IT,System Analyst,Delhi NCR,13,2021-04-09,Active
+EMP0385,Suhani Parmer,Female,37,HR,Recruiter,Bengaluru,16,2023-01-01,Active
+EMP0386,Warhi Mandal,Female,27,Marketing,Marketing Specialist,Hyderabad,6,2021-10-19,Active
+EMP0387,Upasna Dube,Female,51,Marketing,Marketing Specialist,Mumbai,6,2022-11-11,Active
+EMP0388,Isha Barman,Female,54,Finance,Accountant,Bengaluru,5,2018-02-25,Active
+EMP0389,Chatura Soman,Male,32,IT,System Analyst,Hyderabad,9,2020-11-16,Active
+EMP0390,Ekanta Mital,Female,30,Finance,Finance Lead,Pune,5,2021-12-18,Active
+EMP0391,Chavvi Dass,Female,35,Sales,Sales Manager,Mumbai,12,2022-02-06,On Leave
+EMP0392,Vyanjana Ramaswamy,Female,31,Sales,Sales Manager,Chennai,3,2021-11-14,Active
+EMP0393,Garima Sachar,Female,48,Sales,Sales Manager,Chennai,18,2018-10-03,Active
+EMP0394,Shivansh Subramanian,Male,29,Sales,Sales Executive,Hyderabad,7,2022-05-29,Active
+EMP0395,Simon Borra,Male,48,Finance,Finance Lead,Chennai,9,2023-01-01,Active
+EMP0396,Harita Kashyap,Female,50,Sales,Account Executive,Mumbai,11,2022-04-15,Active
+EMP0397,Eshana Sabharwal,Female,22,Operations,Operations Manager,Hyderabad,1,2023-01-01,Active
+EMP0398,David Aggarwal,Male,47,Customer Support,CS Executive,Mumbai,6,2020-04-05,Active
+EMP0399,Yatan Pandya,Male,36,Marketing,SEO Analyst,Delhi NCR,1,2022-12-21,Active
+EMP0400,Dalbir Deol,Male,39,IT,Software Engineer,Chennai,0,2023-01-01,Active
+EMP0401,Upadhriti Rattan,Female,36,HR,Recruiter,Bengaluru,3,2022-12-05,Active
+EMP0402,Vihaan Krishnamurthy,Male,42,Sales,Sales Manager,Mumbai,1,2023-01-01,Active
+EMP0403,Eesha Sachdeva,Female,23,Operations,Process Lead,Bengaluru,0,2023-01-01,Active
+EMP0404,Onveer Misra,Male,28,Finance,Accountant,Pune,3,2021-08-05,Active
+EMP0405,Farhan Sarma,Male,46,Marketing,Marketing Specialist,Delhi NCR,1,2022-11-07,Active
+EMP0406,Tanveer Pant,Male,58,Finance,Finance Lead,Pune,20,2022-05-23,Terminated
+EMP0407,Unni Rau,Female,58,Sales,Sales Executive,Mumbai,5,2022-03-01,Active
+EMP0408,Pratyush Tella,Male,52,IT,DevOps Engineer,Hyderabad,0,2023-01-01,Active
+EMP0409,Lopa Chakrabarti,Female,25,IT,Software Engineer,Chennai,2,2021-09-20,Active
+EMP0410,Champak Halder,Male,49,Sales,Sales Executive,Pune,25,2020-06-22,Active
+EMP0411,Qadim Jani,Male,47,IT,System Analyst,Bengaluru,3,2021-02-13,Active
+EMP0412,Charan Narain,Male,47,Finance,Finance Lead,Delhi NCR,2,2022-10-31,Active
+EMP0413,Sai Prashad,Female,40,Operations,Operations Manager,Chennai,11,2020-01-03,Active
+EMP0414,Panini Balan,Female,24,Operations,Operations Associate,Delhi NCR,3,2022-10-05,Active
+EMP0415,Mekhala Dhaliwal,Female,36,Operations,Operations Manager,Hyderabad,2,2022-11-20,Active
+EMP0416,Harish Karan,Male,26,Customer Support,CS Executive,Chennai,2,2021-07-21,Active
+EMP0417,Amaira Krish,Female,23,Marketing,Content Strategist,Chennai,1,2022-02-02,Active
+EMP0418,Bhavna Singh,Female,30,HR,HR Manager,Delhi NCR,8,2019-01-09,Terminated
+EMP0419,Hredhaan Purohit,Male,32,HR,HR Manager,Hyderabad,11,2021-08-23,Active
+EMP0420,Vritti Kadakia,Female,29,Sales,Sales Manager,Pune,0,2023-01-01,Active
+EMP0421,Qushi Dayal,Female,39,Customer Support,Support Specialist,Bengaluru,17,2015-09-04,Active
+EMP0422,Anamika Sethi,Female,50,IT,Software Engineer,Mumbai,2,2023-01-01,Terminated
+EMP0423,Qabil Golla,Male,34,HR,HR Manager,Chennai,12,2022-12-11,Active
+EMP0424,Benjamin Sandhu,Male,31,Finance,Financial Analyst,Hyderabad,6,2023-01-01,Active
+EMP0425,Nitesh Kota,Male,36,Sales,Sales Executive,Bengaluru,10,2018-02-23,Active
+EMP0426,Abdul Keer,Male,23,Sales,Account Executive,Hyderabad,2,2021-06-15,Active
+EMP0427,Charita Jha,Female,30,Finance,Finance Lead,Delhi NCR,2,2022-10-31,Active
+EMP0428,Avni Rajan,Female,45,HR,HR Executive,Pune,20,2018-04-15,Active
+EMP0429,Ekaja Khanna,Female,36,IT,System Analyst,Pune,4,2019-03-25,Active
+EMP0430,Bimala Gandhi,Female,52,Marketing,Marketing Specialist,Mumbai,3,2022-05-19,Active
+EMP0431,Nihal Suri,Male,37,Marketing,SEO Analyst,Mumbai,11,2022-03-31,Active
+EMP0432,Xiti Bhasin,Female,31,IT,DevOps Engineer,Delhi NCR,10,2023-01-01,Active
+EMP0433,Rudra Ravi,Male,52,IT,Software Engineer,Bengaluru,19,2021-08-11,Active
+EMP0434,Urishilla Basak,Female,33,HR,HR Executive,Hyderabad,8,2022-08-19,Active
+EMP0435,Samaksh Sahni,Male,25,HR,HR Manager,Pune,1,2022-05-09,On Leave
+EMP0436,Triya Nadkarni,Female,24,Sales,Sales Manager,Hyderabad,0,2023-01-01,Active
+EMP0437,Tejas Nazareth,Male,32,Sales,Sales Executive,Bengaluru,10,2023-01-01,Active
+EMP0438,Anya Mangal,Female,40,Customer Support,CS Executive,Bengaluru,12,2019-03-24,Terminated
+EMP0439,Maanav Kamdar,Male,43,Sales,Account Executive,Hyderabad,12,2018-03-15,Active
+EMP0440,Indali Prabhu,Female,58,HR,HR Manager,Pune,5,2020-03-23,Active
+EMP0441,Yagnesh Dewan,Male,50,IT,System Analyst,Pune,21,2022-11-01,Active
+EMP0442,Liam Shukla,Male,52,HR,Recruiter,Pune,12,2022-05-02,Active
+EMP0443,Urvi Mannan,Female,28,IT,DevOps Engineer,Hyderabad,6,2020-02-02,Active
+EMP0444,Dakshesh Gopal,Male,49,HR,Recruiter,Bengaluru,25,2020-12-22,Active
+EMP0445,Omkaar Magar,Male,56,Marketing,SEO Analyst,Hyderabad,9,2021-11-28,Active
+EMP0446,Lucky Kar,Male,33,HR,Recruiter,Pune,12,2020-08-23,Active
+EMP0447,Saumya Sangha,Female,37,Customer Support,Support Specialist,Hyderabad,4,2021-03-11,Active
+EMP0448,Faqid Ghosh,Male,52,Customer Support,Technical Support Lead,Pune,3,2022-03-02,Active
+EMP0449,Advaith Natt,Male,28,HR,HR Executive,Pune,3,2023-01-01,Active
+EMP0450,Ekanta Ramakrishnan,Female,58,Finance,Financial Analyst,Pune,24,2019-03-28,Active
+EMP0451,Kiaan Singh,Male,42,HR,HR Manager,Hyderabad,2,2022-07-25,Terminated
+EMP0452,Ryan Natarajan,Male,56,Finance,Financial Analyst,Hyderabad,24,2019-12-17,Active
+EMP0453,Theodore Lad,Male,50,Customer Support,Support Specialist,Mumbai,23,2023-01-01,Active
+EMP0454,Vincent Anne,Male,42,Customer Support,CS Executive,Bengaluru,21,2017-08-15,Active
+EMP0455,Rajata Natarajan,Female,39,Marketing,SEO Analyst,Mumbai,6,2017-03-10,Active
+EMP0456,Joshua Bhat,Male,22,Customer Support,Support Specialist,Delhi NCR,0,2023-01-01,Active
+EMP0457,Anmol Khalsa,Male,31,Marketing,SEO Analyst,Mumbai,9,2022-10-11,Active
+EMP0458,Rehaan Ratta,Male,50,Sales,Sales Manager,Delhi NCR,10,2019-02-03,Active
+EMP0459,Neha Samra,Female,53,Customer Support,Technical Support Lead,Delhi NCR,5,2022-08-25,Active
+EMP0460,Bhavini Rana,Female,45,Sales,Sales Manager,Pune,0,2023-01-01,Active
+EMP0461,Warinder Banik,Male,31,IT,Software Engineer,Mumbai,6,2021-11-06,Active
+EMP0462,Madhavi Bhat,Female,37,HR,Recruiter,Pune,13,2016-08-09,Terminated
+EMP0463,Kala Keer,Female,51,IT,DevOps Engineer,Hyderabad,25,2022-01-07,Terminated
+EMP0464,Sara Sekhon,Female,36,Marketing,Marketing Specialist,Chennai,10,2022-09-05,Terminated
+EMP0465,Gaurang Chawla,Male,34,Sales,Account Executive,Bengaluru,5,2020-12-20,Active
+EMP0466,Anamika Parmer,Female,54,Sales,Sales Executive,Bengaluru,22,2021-09-18,Active
+EMP0467,Geetika Soman,Female,36,Operations,Operations Manager,Pune,15,2019-08-11,Terminated
+EMP0468,Yash Sarin,Male,39,Customer Support,Technical Support Lead,Mumbai,1,2023-01-01,Active
+EMP0469,Nathaniel Buch,Male,58,IT,DevOps Engineer,Delhi NCR,14,2013-11-04,Active
+EMP0470,Dayamai Dara,Female,22,HR,Recruiter,Mumbai,0,2023-01-01,Active
+EMP0471,Triya Setty,Female,36,IT,DevOps Engineer,Hyderabad,9,2019-10-01,Active
+EMP0472,Suhani Sahni,Female,41,Sales,Account Executive,Mumbai,11,2022-01-04,Active
+EMP0473,Isaiah Palan,Male,42,Finance,Financial Analyst,Hyderabad,16,2022-11-18,Active
+EMP0474,Jyoti Bhargava,Female,47,Customer Support,Technical Support Lead,Bengaluru,6,2022-09-30,Active
+EMP0475,Rohan Thakkar,Male,39,HR,HR Executive,Chennai,4,2021-10-10,Active
+EMP0476,Arya Madan,Female,23,Marketing,SEO Analyst,Hyderabad,0,2023-01-01,Active
+EMP0477,Isaac Swaminathan,Male,45,Marketing,Content Strategist,Hyderabad,3,2022-05-18,Terminated
+EMP0478,Anay Sinha,Male,40,Operations,Process Lead,Delhi NCR,14,2019-12-17,Active
+EMP0479,Rachita Saran,Female,40,Operations,Operations Associate,Mumbai,3,2022-06-26,Active
+EMP0480,Falak Radhakrishnan,Female,43,Finance,Finance Lead,Bengaluru,19,2019-06-26,Active
+EMP0481,Tanveer Taneja,Male,44,Finance,Finance Lead,Pune,4,2022-10-26,Active
+EMP0482,Gauri Mitter,Female,49,Operations,Process Lead,Mumbai,4,2023-01-01,Active
+EMP0483,Megha Wagle,Female,31,Operations,Operations Manager,Pune,3,2020-08-16,Active
+EMP0484,Eta Basak,Female,53,HR,Recruiter,Mumbai,25,2022-11-09,Active
+EMP0485,Naksh Koshy,Male,46,IT,DevOps Engineer,Pune,21,2019-01-19,Active
+EMP0486,Bhavani Dave,Female,27,Sales,Sales Manager,Delhi NCR,4,2021-09-09,On Leave
+EMP0487,Anay Kota,Male,50,Marketing,SEO Analyst,Pune,6,2021-02-27,Active
+EMP0488,Guneet Bakshi,Male,41,Marketing,Content Strategist,Pune,17,2019-09-04,Active
+EMP0489,Urvi Bora,Female,41,HR,HR Executive,Chennai,8,2021-11-07,Active
+EMP0490,Abeer Padmanabhan,Male,41,IT,DevOps Engineer,Delhi NCR,15,2020-03-22,Active
+EMP0491,Orinder Atwal,Male,23,HR,HR Executive,Bengaluru,1,2022-12-10,Terminated
+EMP0492,Lipika Mukhopadhyay,Female,27,Operations,Operations Manager,Mumbai,2,2022-08-29,Active
+EMP0493,Pahal Shanker,Female,47,Marketing,Content Strategist,Delhi NCR,12,2022-07-07,Active
+EMP0494,Girindra Gill,Male,43,HR,HR Executive,Chennai,9,2020-12-30,Active
+EMP0495,Jagvi Suri,Female,23,Operations,Operations Manager,Delhi NCR,1,2023-01-01,Active
+EMP0496,Nidra Sabharwal,Female,53,Sales,Sales Executive,Bengaluru,13,2016-12-13,Terminated
+EMP0497,Jagdish Karpe,Male,25,Finance,Financial Analyst,Chennai,2,2022-09-17,Active
+EMP0498,Daniel Chana,Male,38,Customer Support,Support Specialist,Chennai,11,2021-05-28,Active
+EMP0499,Brijesh Borra,Male,57,Marketing,Content Strategist,Mumbai,3,2021-02-10,Terminated
+EMP0500,Sanaya Dhar,Female,53,Finance,Finance Lead,Hyderabad,4,2022-12-11,Active
