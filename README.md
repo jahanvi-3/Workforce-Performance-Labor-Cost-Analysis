@@ -100,38 +100,34 @@ Three tables were created:
 employees
 employee_performance
 labor_cost
-### Step 3 — SQL Analysis
+
+**SQL Analysis
 
 SQL queries were used to combine employee, performance, and labor-cost information.
 
 Key metrics calculated include:
 
-- Total Revenue
-- Total Labor Cost
-- Average Performance
-- Total Overtime Hours
-- Overtime Cost
-- Training Cost
-- Potential Cost Risk
+Total Revenue
+Total Labor Cost
+Average Performance
+Total Overtime Hours
+Overtime Cost
+Training Cost
+Potential Cost Risk
 
-### Step 4 — Power BI Dashboard
+** Power BI Dashboard
 
 The analyzed data was visualized in Power BI through an interactive workforce analytics dashboard.
 
----
+--Potential Cost Risk Logic
+Employees are classified as Potential Cost Risk when all of the following conditions are met:
 
-##  Potential Cost Risk Logic
-
-Employees are classified as **Potential Cost Risk** when all of the following conditions are met:
-
-```text
 Average Performance < 60
 AND
 Total Overtime Hours > 200
 AND
 Total Revenue < Total Labor Cost
-
-**Power BI Dashboard
+Power BI Dashboard
 
 The dashboard provides an interactive view of:
 
@@ -146,7 +142,7 @@ Potential Cost Risk
 
 The Power BI dashboard file is included in this repository.
 
-** Key Business Questions
+Key Business Questions
 
 This project helps answer questions such as:
 
@@ -159,6 +155,7 @@ Where are potential workforce cost risks?
 How much overtime cost is being incurred?
 How are training expenses distributed?
 
+📁 Project Structure
 Workforce-Performance-Labor-Cost-Analysis/
 │
 ├── d1.py
@@ -170,6 +167,7 @@ Workforce-Performance-Labor-Cost-Analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+
 **Skills Demonstrated
 Python
 Pandas
@@ -187,17 +185,32 @@ KPI Design
 Business Intelligence
 Workforce Analytics
 Cost Risk Analysis
-** Project Outcome
+Project Outcome
 
 The project transforms raw workforce data into actionable business insights by combining programmatic data generation, relational database analysis, SQL business logic, and interactive Power BI visualization.
 
 It demonstrates an end-to-end approach to solving a real-world workforce analytics and cost optimization problem.
-## Author
 
-**Jahanvi Gaur**
+Author
+
+Jahanvi Gaur
 
 Data Analytics | Python | SQL | Power BI | Business Intelligence
+If you find this project useful, feel free to explore the repository.
 
----
+### Step 4 — Preview check karo
 
- If you find this project useful, feel free to explore the repository.
+**Preview** tab par click karo.
+
+Ab headings `##`, bullet points `-`, numbered questions aur code blocks properly formatted dikhne chahiye.
+
+### Step 5 — Commit
+
+Neeche jaakar:
+
+**Commit changes**
+
+Commit message:
+
+```text
+Fix README formatting and documentation
