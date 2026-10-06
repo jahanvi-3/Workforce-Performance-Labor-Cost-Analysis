@@ -197,11 +197,3 @@ Jahanvi Gaur
 
 Data Analytics | Python | SQL | Power BI | Business Intelligence
 If you find this project useful, feel free to explore the repository.
-
-
-**Commit changes**
-
-Commit message:
-
-```text
-Fix README formatting and documentation
