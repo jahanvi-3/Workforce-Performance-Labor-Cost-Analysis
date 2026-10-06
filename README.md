@@ -101,25 +101,25 @@ employees
 employee_performance
 labor_cost
 
-**SQL Analysis
+### Step 3 — SQL Analysis
 
 SQL queries were used to combine employee, performance, and labor-cost information.
 
 Key metrics calculated include:
 
-Total Revenue
-Total Labor Cost
-Average Performance
-Total Overtime Hours
-Overtime Cost
-Training Cost
-Potential Cost Risk
+- Total Revenue
+- Total Labor Cost
+- Average Performance
+- Total Overtime Hours
+- Overtime Cost
+- Training Cost
+- Potential Cost Risk
 
-** Power BI Dashboard
+### Step 4 — Power BI Dashboard
 
 The analyzed data was visualized in Power BI through an interactive workforce analytics dashboard.
 
---Potential Cost Risk Logic
+## Potential Cost Risk Logic
 Employees are classified as Potential Cost Risk when all of the following conditions are met:
 
 Average Performance < 60
@@ -131,14 +131,14 @@ Power BI Dashboard
 
 The dashboard provides an interactive view of:
 
-Workforce KPIs
-Employee Performance
-Revenue Analysis
-Labor Cost Analysis
-Overtime Analysis
-Training Cost Analysis
-Department Performance
-Potential Cost Risk
+- Workforce KPIs
+- Employee Performance
+- Revenue Analysis
+- Labor Cost Analysis
+- Overtime Analysis
+- Training Cost Analysis
+- Department Performance
+- Potential Cost Risk
 
 The Power BI dashboard file is included in this repository.
 
@@ -146,14 +146,14 @@ Key Business Questions
 
 This project helps answer questions such as:
 
-Which employees generate the highest revenue?
-Which departments have the highest labor costs?
-Which employees have low performance but high overtime?
-How does labor cost compare with revenue?
-Which departments require performance improvement?
-Where are potential workforce cost risks?
-How much overtime cost is being incurred?
-How are training expenses distributed?
+- Which employees generate the highest revenue?
+- Which departments have the highest labor costs?
+- Which employees have low performance but high overtime?
+- How does labor cost compare with revenue?
+- Which departments require performance improvement?
+- Where are potential workforce cost risks?
+- How much overtime cost is being incurred?
+- How are training expenses distributed?
 
 📁 Project Structure
 Workforce-Performance-Labor-Cost-Analysis/
@@ -168,24 +168,23 @@ Workforce-Performance-Labor-Cost-Analysis/
 ├── LICENSE
 └── .gitignore
 
-**Skills Demonstrated
-Python
-Pandas
-Data Generation
-Data Preparation
-MySQL
-SQL Joins
-Aggregation
-CASE Statements
-Business Logic
-Data Analysis
-Power BI
-Dashboard Development
-KPI Design
-Business Intelligence
-Workforce Analytics
-Cost Risk Analysis
-Project Outcome
+##Skills Demonstrated
+- Python
+- Pandas
+- Data Generation
+- Data Preparation
+- MySQL
+- SQL Joins
+- Aggregation
+- CASE Statements
+- Business Logic
+- Data Analysis
+- Power BI
+- Dashboard Development
+- KPI Design
+- Business Intelligence
+- Workforce Analytics
+- Cost Risk Analysis
 
 The project transforms raw workforce data into actionable business insights by combining programmatic data generation, relational database analysis, SQL business logic, and interactive Power BI visualization.
 
