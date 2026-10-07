@@ -99,7 +99,8 @@ Three tables were created:
 ```text
 employees
 employee_performance
-labor_cost```
+labor_cost
+```
 
 ### Step 3 — SQL Analysis
 
@@ -156,6 +157,7 @@ This project helps answer questions such as:
 - How are training expenses distributed?
 
 ## 📁 Project Structure
+```text
 Workforce-Performance-Labor-Cost-Analysis/
 │
 ├── d1.py
@@ -167,6 +169,7 @@ Workforce-Performance-Labor-Cost-Analysis/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
 
 ## Skills Demonstrated
 - Python
