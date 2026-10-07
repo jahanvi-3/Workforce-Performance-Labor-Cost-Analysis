@@ -99,7 +99,7 @@ Three tables were created:
 ```text
 employees
 employee_performance
-labor_cost
+labor_cost```
 
 ### Step 3 — SQL Analysis
 
@@ -142,7 +142,7 @@ The dashboard provides an interactive view of:
 
 The Power BI dashboard file is included in this repository.
 
-Key Business Questions
+## Key Business Questions
 
 This project helps answer questions such as:
 
@@ -155,7 +155,7 @@ This project helps answer questions such as:
 - How much overtime cost is being incurred?
 - How are training expenses distributed?
 
-📁 Project Structure
+## 📁 Project Structure
 Workforce-Performance-Labor-Cost-Analysis/
 │
 ├── d1.py
@@ -168,7 +168,7 @@ Workforce-Performance-Labor-Cost-Analysis/
 ├── LICENSE
 └── .gitignore
 
-##Skills Demonstrated
+## Skills Demonstrated
 - Python
 - Pandas
 - Data Generation
@@ -190,7 +190,7 @@ The project transforms raw workforce data into actionable business insights by c
 
 It demonstrates an end-to-end approach to solving a real-world workforce analytics and cost optimization problem.
 
-Author
+## Author
 
 Jahanvi Gaur
 
